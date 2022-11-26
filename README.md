@@ -55,7 +55,7 @@ Pembagian IP dan routing harus SE-EFISIEN MUNGKIN.
 
 ![CIDR 8.](./8.jpg "CIDR 8")
 
-![CIDR Tree.](./1.jpg "CIDR Tree")
+![CIDR Tree.](./CIDR_tree.jpg "CIDR Tree")
 
 **Konfigurasi Resonance**
 ```text
