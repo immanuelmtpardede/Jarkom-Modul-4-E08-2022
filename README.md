@@ -37,6 +37,9 @@ Pembagian IP dan routing harus SE-EFISIEN MUNGKIN.
 ## Topologi GNS3
 ![topologi_gns3](./topologi_gns.png "Topologi GNS")
 
+### CIDR
+![CIDR Tree.](./CIDR_tree.jpg "CIDR Tree")
+
 **Konfigurasi Resonance**
 ```text
 auto eth0
