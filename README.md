@@ -38,7 +38,24 @@ Pembagian IP dan routing harus SE-EFISIEN MUNGKIN.
 ![topologi_gns3](./topologi_gns.png "Topologi GNS")
 
 ### CIDR
-![CIDR Tree.](./CIDR_tree.jpg "CIDR Tree")
+
+![CIDR 1.](./2.jpg "CIDR 1")
+
+![CIDR 2.](./3.jpg "CIDR 2")
+
+![CIDR 3.](./4.jpg "CIDR 3")
+
+![CIDR 4.](./5.jpg "CIDR 4")
+
+![CIDR 5.](./6.jpg "CIDR 5")
+
+![CIDR 6.](./7.jpg "CIDR 6")
+
+![CIDR 7.](./8.jpg "CIDR 7")
+
+![CIDR 8.](./9.jpg "CIDR 8")
+
+![CIDR Tree.](./1.jpg "CIDR Tree")
 
 **Konfigurasi Resonance**
 ```text
